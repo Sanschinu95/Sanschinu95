@@ -1,11 +1,8 @@
 # Hi there, I'm Sanskar Shrivastava 👋
 
-## Web Developer | Machine Learning Enthusiast | Aspiring Entrepreneur 🚀
-
-I’m a **2nd-year B.Tech student** at **MANIT Bhopal** passionate about building impactful digital solutions using web technologies. I'm continuously exploring new areas like **Machine Learning**, **AI**, and **Space Tech** to merge innovation and entrepreneurship.
+## Web Developer | Machine Learning Enthusiast 🚀
 
 ## 🔭 I’m currently working on...
-- Building a **barter-based freelance website** to facilitate service exchanges among college students.
 - Improving my **Next.js** and **React.js** skills for better performance and scalability in web apps.
 
 ## 🌱 I’m currently learning...
@@ -15,7 +12,6 @@ I’m a **2nd-year B.Tech student** at **MANIT Bhopal** passionate about buildin
 
 ## 👯 I’m looking to collaborate on...
 - **Web Development Projects**: If you're working on an exciting web app or want to explore **MERN stack** solutions, let’s collaborate!
-- **AI and ML Solutions**: Projects that involve **image recognition**, **natural language processing**, or **health-related AI**.
 - **Open Source Projects**: I’d love to contribute to open-source projects with a social impact.
 
 ## 🤔 I’m looking for help with...
