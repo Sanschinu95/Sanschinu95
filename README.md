@@ -1,6 +1,6 @@
 # Hi there, I'm Sanskar Shrivastava 👋
 
-## Web Developer | Machine Learning Enthusiast 🚀
+
 
 ## 🔭 I’m currently working on...
 - Improving my **Next.js** and **React.js** skills for better performance and scalability in web apps.
